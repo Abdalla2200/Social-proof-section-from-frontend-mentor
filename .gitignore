@@ -1,0 +1,11 @@
+# Ignore node_modules folder (dependencies)
+node_modules/
+
+# Ignore the auto-generated output.css
+output.css
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore the log files
+*.log
